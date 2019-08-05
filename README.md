@@ -10,7 +10,7 @@ Our core techniques consist of **Object Detection**, **Image Recognition** and *
 You can [click here]() to watch a video of demo or download our [product introduction]().
 
 <p align="center">
-<img width="300" src="Supporting%20files/preview.gif" hspace="50px" />
+<img width="300" src="Support/arm.png" hspace="50px" />
 <img width="247" src="Supporting%20files/UI.gif" hspace="50px" />
 </p>
 
