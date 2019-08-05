@@ -11,7 +11,7 @@ You can [click here]() to watch a video of demo or download our [product introdu
 
 <p align="center">
 <img width="300" src="Support/arm.png" hspace="50px" />
-<img width="247" src="Supporting%20files/UI.gif" hspace="50px" />
+<img width="247" src="Support/trashcan.png" hspace="50px" />
 </p>
 
 ## Hardware Configuration
