@@ -51,7 +51,7 @@ Recycle System State Protocol: the protocol we use for the collaboration among t
 | Hardware  |   Picture Taken   | 1 &#8594; 2  |
 |   Cloud   | Object Detection  | 2 &#8594; 3  |
 | Interface |   Picture Shown   | 3 &#8594; 4  |
-| Hardware  |     Arm Moved     | 4 &#8594; 5  |
+| Hardware  |     Arm Moved     | 4 &#8594; 0  |
 
 #### Rule
 - Every node has the right to read the state on the server which enables them to start their own function in the right time series.
